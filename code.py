@@ -35,7 +35,7 @@
 #else:
 #    print("its not a palindrome")
 
-
+#hello
 list=["A","B","D","A","V","A","F","G"]
 print(list.count("A"))
 print(list.sort())
